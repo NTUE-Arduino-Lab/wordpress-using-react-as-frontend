@@ -33,7 +33,7 @@ windows 系統 和 unix-based 系統，預設的文件換行符號有以下的�
 
 ```
 {
-    "homepage": "ALIAS-OF-SITE/wordpress/wp-content/themes/NAME-OF-THEME/REACT-PROJECT-NAME/build",
+    "homepage": "/ALIAS-OF-SITE/wp-content/themes/NAME-OF-THEME/REACT-PROJECT-NAME/build",
     ...
 }
 

@@ -1,5 +1,5 @@
 {
-  "homepage": "ALIAS-OF-SITE/wordpress/wp-content/themes/NAME-OF-THEME/REACT-PROJECT-NAME/build",
+  "homepage": "/ALIAS-OF-SITE/wp-content/themes/NAME-OF-THEME/REACT-PROJECT-NAME/build",
   "name": "react-eslint-stylelint",
   "version": "0.1.0",
   "private": true,
